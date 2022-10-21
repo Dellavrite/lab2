@@ -326,6 +326,11 @@ $font_fam_R: "Roboto Flex", sans-serif;
       color: #7dd42f;
       margin-bottom: 35px;
     }
+    &__imgs{
+        display: flex;
+        justify-content: space-between;
+        width: 100%;
+    }
     &__text {
       font-family: "Roboto";
       margin-bottom: 30px;

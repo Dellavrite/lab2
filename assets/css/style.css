@@ -325,6 +325,11 @@
   color: #7dd42f;
   margin-bottom: 35px;
 }
+.footer__col__imgs {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
 .footer__col__text {
   font-family: "Roboto";
   margin-bottom: 30px;
